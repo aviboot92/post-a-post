@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Footer from "./components/Footer";
+import Header from "./components/Header";
 
 export default function Home() {
   return (
@@ -23,8 +24,4 @@ export default function Home() {
 // ================Header and Footer==================
 
 
-const Header = () =>{
-  return (<>
-  Header Component
-  </>)
-}
+
